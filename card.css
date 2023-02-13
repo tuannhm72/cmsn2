@@ -38,7 +38,7 @@
 
     .card-show{
         opacity: 1 !important;
-        right: 0 !important;
+        right: 5% !important;
         transition: all 3s;
         
     }
